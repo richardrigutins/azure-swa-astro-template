@@ -1,0 +1,21 @@
+{
+  "name": "azure-swa-astro-template",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "swa:start": "swa start",
+    "swa:login": "swa login",
+    "swa:deploy": "swa deploy"
+  },
+  "dependencies": {
+    "astro": "^2.3.0"
+  },
+  "devDependencies": {
+    "@azure/static-web-apps-cli": "^1.1.1"
+  }
+}
