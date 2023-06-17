@@ -3,7 +3,7 @@
     "configurations": {
         "app": {
             "appLocation": ".",
-            "outputLocation": "/dist",
+            "outputLocation": "./dist",
             "appBuildCommand": "npm run build",
             "run": "npm run dev",
             "appDevserverUrl": "http://localhost:3000"
