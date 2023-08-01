@@ -52,7 +52,6 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`    | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro --help` | Get help using the Astro CLI                     |
 | `npm run swa:start`    | Starts local dev server using the SWA emulator   |
-| `npm run swa:build`    | Build your production site to `./dist/`          |
 | `npm run swa:deploy`   | Deploy your site to Azure Static Web Apps        |
 | `npm run swa:login`    | Login to Azure Static Web Apps                   |
 
