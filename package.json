@@ -16,7 +16,7 @@
     "swa:deploy": "swa deploy"
   },
   "dependencies": {
-    "astro": "^4.16.13"
+    "astro": "^4.16.14"
   },
   "devDependencies": {
     "@azure/static-web-apps-cli": "^2.0.1"
