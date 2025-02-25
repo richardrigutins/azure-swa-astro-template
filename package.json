@@ -19,6 +19,6 @@
     "astro": "^5.3.1"
   },
   "devDependencies": {
-    "@azure/static-web-apps-cli": "^2.0.3"
+    "@azure/static-web-apps-cli": "^2.0.4"
   }
 }
